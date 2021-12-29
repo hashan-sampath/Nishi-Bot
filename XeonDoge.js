@@ -1217,8 +1217,8 @@ quotes = quotesnya.result.quote
 by = quotesnya.result.by
 tod = `┏━━━━━━━━━━━━━━━━━━━━
 ⬡ ${z}My Name is ${botName}${z}
-⬡ ${z}I was Create By ${NamaOwner}${z}
-⬡ ${z}My Masters Number ${NomorOwner}${z}
+⬡ ${z}I was Created By ${NamaOwner}${z}
+⬡ ${z}My Creators Number ${NomorOwner}${z}
 ┗━━━━━━━━━━━━━━━━━━`
 tod2 =`┏━━━❒ *MENU LIST*
 ${z}☠️ ${prefix}soundmenu${z}
