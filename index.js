@@ -305,7 +305,7 @@ dogexeon.on('group-participants-update', async (anu) => {
 
 				teks = `👻 *Hɪ* @${num.split('@')[0]}\n👻 *Bɪᴏ* : *${thu.status}*\n👻 *Mᴇᴍʙᴇʀs : ${memeg}*\n👻 *Wᴇʟᴄᴏᴍᴇ Tᴏ ${mdata.subject}*\n👻 *Read The Description and type !verify*`
 
-				sendButImage(anu.jid, teks, `𝗡𝗶𝘀𝗵𝗶𝗩𝟮•Powered By Xeon`, img,but = [{buttonId:`getdesc`,
+				sendButImage(anu.jid, teks, `NishiV3•Powered By Whatsapp`, img,but = [{buttonId:`getdesc`,
 
                buttonText:{displayText: 'GET DESC'},type:1}], options = {contextInfo: {mentionedJid: [num, htod]}})
 
